@@ -1,5 +1,5 @@
 
 // (me.name);
 // alert(me.height);
-var me = [ "My Name is Ngwube Miracle", "I am Average height","My Country is Nigeria."]
+var me = [ "Name: Ngwube Miracle", "Height: Average height","Country: Nigeria."]
 document.write( me)
